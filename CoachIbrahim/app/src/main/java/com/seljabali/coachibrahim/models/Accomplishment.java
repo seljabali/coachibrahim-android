@@ -1,4 +1,4 @@
-package com.codingcamels.coachibrahim.models;
+package com.seljabali.coachibrahim.models;
 
 /**
  * Created by habibi on 12/7/14.

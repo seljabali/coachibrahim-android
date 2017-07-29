@@ -1,4 +1,4 @@
-package com.codingcamels.coachibrahim.models;
+package com.seljabali.coachibrahim.models;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

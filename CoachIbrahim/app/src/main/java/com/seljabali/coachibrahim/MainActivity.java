@@ -1,4 +1,4 @@
-package com.codingcamels.coachibrahim;
+package com.seljabali.coachibrahim;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -11,8 +11,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.codingcamels.coachibrahim.datasources.DayLogDatasource;
-import com.codingcamels.coachibrahim.models.DayLog;
+import com.seljabali.coachibrahim.datasources.DayLogDatasource;
+import com.seljabali.coachibrahim.models.DayLog;
 import com.roomorama.caldroid.CaldroidFragment;
 import com.roomorama.caldroid.CaldroidListener;
 
@@ -21,7 +21,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.List;
-import java.util.TimeZone;
 
 
 import hirondelle.date4j.DateTime;

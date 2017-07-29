@@ -1,4 +1,4 @@
-package com.codingcamels.coachibrahim;
+package com.seljabali.coachibrahim;
 
 import android.content.Context;
 import android.database.DatabaseErrorHandler;
@@ -9,7 +9,7 @@ import android.util.Log;
 /**
  * Created by samsoom on 1/12/15.
  */
-public class MySQLHelper extends SQLiteOpenHelper implements DatabaseErrorHandler {
+public class    MySQLHelper extends SQLiteOpenHelper implements DatabaseErrorHandler {
     private static final String DATABASE_NAME = "habibi_phrases.db";
     private static final int DATABASE_VERSION = 1;
     public static final String CREATE_TABLE = "create table ";

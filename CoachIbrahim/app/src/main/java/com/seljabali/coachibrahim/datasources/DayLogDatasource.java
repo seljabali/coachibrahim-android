@@ -1,4 +1,4 @@
-package com.codingcamels.coachibrahim.datasources;
+package com.seljabali.coachibrahim.datasources;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,8 +7,8 @@ import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-import com.codingcamels.coachibrahim.MySQLHelper;
-import com.codingcamels.coachibrahim.models.DayLog;
+import com.seljabali.coachibrahim.MySQLHelper;
+import com.seljabali.coachibrahim.models.DayLog;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

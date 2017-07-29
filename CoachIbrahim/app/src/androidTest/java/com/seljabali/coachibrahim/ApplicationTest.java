@@ -1,4 +1,4 @@
-package com.codingcamels.coachibrahim;
+package com.seljabali.coachibrahim;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

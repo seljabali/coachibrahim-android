@@ -1,4 +1,4 @@
-package com.codingcamels.coachibrahim.fragments;
+package com.seljabali.coachibrahim.fragments;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CalendarView;
 
-import com.codingcamels.coachibrahim.R;
+import com.seljabali.coachibrahim.R;
 
 /**
  * Created by habibi on 12/6/14.
